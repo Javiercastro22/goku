@@ -1,3 +1,155 @@
-#ETM3U
-#EXTINF:-1, "Aparece un mini-Goku, su nombre es Gohan" tvg-logo="https://serieslan.com/dragon-ball-z"
-https://vd375.mycdn.me/video.m3u8?cmd=videoPlayerCdn&expires=1688445859181&srcIp=191.103.36.153&srcAg=CHROME_ANDROID&ms=45.136.22.80&type=4&sig=KI9LFr9PT3Q&ct=8&urls=185.226.53.72&clientType=0&id=456057817614
+#EXTM3U
+ 
+ 
+#EXTINF:-1, [COLOR amarillo] Seriados [/COLOR]
+
+
+################### Saga da Viagem pelo Universo ####################
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-z1plTrevn64/UL5p2NZzAqI/AAAAAAAAAns/5sTn9wtRqQ8/s1600/saga%2Bded%2Beviagem%2Bpelo%2Buniverso.png" group-title=" Saga da Viagem pelo Universo", Episódio 01 - Surge Umas Misteriosas Esferas Do Dragao
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/DBGTEP01.mp4
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-z1plTrevn64/UL5p2NZzAqI/AAAAAAAAAns/5sTn9wtRqQ8/s1600/saga%2Bded%2Beviagem%2Bpelo%2Buniverso.png" group-title=" Saga da Viagem pelo Universo", Episodio 02 - Pan Viaja Na Nave Espacial
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/DBGTEP02.mp4
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-z1plTrevn64/UL5p2NZzAqI/AAAAAAAAAns/5sTn9wtRqQ8/s1600/saga%2Bded%2Beviagem%2Bpelo%2Buniverso.png" group-title=" Saga da Viagem pelo Universo", Episodio 03 - Os Comerciantes Do Planeta Imega
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/DBGTEP03.mp4
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-z1plTrevn64/UL5p2NZzAqI/AAAAAAAAAns/5sTn9wtRqQ8/s1600/saga%2Bded%2Beviagem%2Bpelo%2Buniverso.png" group-title=" Saga da Viagem pelo Universo", Episodio 04 - Goku e os outros se tornam criminosos
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/DBGTEP04.mp4
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-z1plTrevn64/UL5p2NZzAqI/AAAAAAAAAns/5sTn9wtRqQ8/s1600/saga%2Bded%2Beviagem%2Bpelo%2Buniverso.png" group-title=" Saga da Viagem pelo Universo", Episodio 05 - O Poderoso Rejick
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/DBGTEP05.mp4
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-z1plTrevn64/UL5p2NZzAqI/AAAAAAAAAns/5sTn9wtRqQ8/s1600/saga%2Bded%2Beviagem%2Bpelo%2Buniverso.png" group-title=" Saga da Viagem pelo Universo", Episodio 06 - O Dentista Goku
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/DBGTEP06.mp4
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-z1plTrevn64/UL5p2NZzAqI/AAAAAAAAAns/5sTn9wtRqQ8/s1600/saga%2Bded%2Beviagem%2Bpelo%2Buniverso.png" group-title=" Saga da Viagem pelo Universo", Episodio 07 - Trunks se Veste de Noiva
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/DBGTEP07.mp4
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-z1plTrevn64/UL5p2NZzAqI/AAAAAAAAAns/5sTn9wtRqQ8/s1600/saga%2Bded%2Beviagem%2Bpelo%2Buniverso.png" group-title=" Saga da Viagem pelo Universo", Episodio 08 - O Bigode de Zunama
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/DBGTEP08.mp4
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-z1plTrevn64/UL5p2NZzAqI/AAAAAAAAAns/5sTn9wtRqQ8/s1600/saga%2Bded%2Beviagem%2Bpelo%2Buniverso.png" group-title=" Saga da Viagem pelo Universo", Episodio 09 - O Planeta Perigoso
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/DBGTEP09.mp4
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-z1plTrevn64/UL5p2NZzAqI/AAAAAAAAAns/5sTn9wtRqQ8/s1600/saga%2Bded%2Beviagem%2Bpelo%2Buniverso.png" group-title=" Saga da Viagem pelo Universo", Episodio 10 - A Dança de Bom-Pa-Ra
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/DBGTEP10.mp4
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-z1plTrevn64/UL5p2NZzAqI/AAAAAAAAAns/5sTn9wtRqQ8/s1600/saga%2Bded%2Beviagem%2Bpelo%2Buniverso.png" group-title=" Saga da Viagem pelo Universo", Episodio 11 - Pan é Transformada Em Boneca
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/DBGTEP11.mp4
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-z1plTrevn64/UL5p2NZzAqI/AAAAAAAAAns/5sTn9wtRqQ8/s1600/saga%2Bded%2Beviagem%2Bpelo%2Buniverso.png" group-title=" Saga da Viagem pelo Universo", Episodio 12 - O Despertar de Ludo!
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/DBGTEP12.mp4
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-z1plTrevn64/UL5p2NZzAqI/AAAAAAAAAns/5sTn9wtRqQ8/s1600/saga%2Bded%2Beviagem%2Bpelo%2Buniverso.png" group-title=" Saga da Viagem pelo Universo", Episodio 13 - O Misteriosos Cientista Chamado Mil
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/DBGTEP13.mp4
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-z1plTrevn64/UL5p2NZzAqI/AAAAAAAAAns/5sTn9wtRqQ8/s1600/saga%2Bded%2Beviagem%2Bpelo%2Buniverso.png" group-title=" Saga da Viagem pelo Universo", Episodio 14 - A Destruição de Ludo
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/DBGTEP14.mp4
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-z1plTrevn64/UL5p2NZzAqI/AAAAAAAAAns/5sTn9wtRqQ8/s1600/saga%2Bded%2Beviagem%2Bpelo%2Buniverso.png" group-title=" Saga da Viagem pelo Universo", Episodio 15 - Pan Consegue Fugir
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/DBGTEP15.mp4
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-z1plTrevn64/UL5p2NZzAqI/AAAAAAAAAns/5sTn9wtRqQ8/s1600/saga%2Bded%2Beviagem%2Bpelo%2Buniverso.png" group-title=" Saga da Viagem pelo Universo", Episodio 16 - O Planeta das Maquinas M2
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/DBGTEP16.mp4
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-z1plTrevn64/UL5p2NZzAqI/AAAAAAAAAns/5sTn9wtRqQ8/s1600/saga%2Bded%2Beviagem%2Bpelo%2Buniverso.png" group-title=" Saga da Viagem pelo Universo", Episodio 17 - A Operaçãoo Para Resgatar Goku
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/DBGTEP17.mp4
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-z1plTrevn64/UL5p2NZzAqI/AAAAAAAAAns/5sTn9wtRqQ8/s1600/saga%2Bded%2Beviagem%2Bpelo%2Buniverso.png" group-title=" Saga da Viagem pelo Universo", Episodio 18 - A Determinação de Goku
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/DBGTEP18.mp4
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-z1plTrevn64/UL5p2NZzAqI/AAAAAAAAAns/5sTn9wtRqQ8/s1600/saga%2Bded%2Beviagem%2Bpelo%2Buniverso.png" group-title=" Saga da Viagem pelo Universo", Episodio 19 - O Poderoso Mutante Rild
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/DBGTEP19.mp4
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-z1plTrevn64/UL5p2NZzAqI/AAAAAAAAAns/5sTn9wtRqQ8/s1600/saga%2Bded%2Beviagem%2Bpelo%2Buniverso.png" group-title=" Saga da Viagem pelo Universo", Episodio 20 - ¡Sorpresa! Goku es atacado por una tempestade de metal
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/DBGTEP20.mp4
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-z1plTrevn64/UL5p2NZzAqI/AAAAAAAAAns/5sTn9wtRqQ8/s1600/saga%2Bded%2Beviagem%2Bpelo%2Buniverso.png" group-title=" Saga da Viagem pelo Universo", Episodio 21 - O Que é isso?? goku se transforma en metal
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/DBGTEP21.mp4
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-z1plTrevn64/UL5p2NZzAqI/AAAAAAAAAns/5sTn9wtRqQ8/s1600/saga%2Bded%2Beviagem%2Bpelo%2Buniverso.png" group-title=" Saga da Viagem pelo Universo", Episodio 22 - Baby o Ser Maligno
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/DBGTEP22.mp4
+
+
+#################### Saga de Baby ###################
+
+#EXTINF:-1 tvg-logo="http://orig13.deviantart.net/1000/f/2013/352/a/7/baby_saga_by_skarface3k3-d6yesfk.png" group-title="Saga de Baby", Episodio 23 - Um Joven Misterioso
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/DBGTEP23.mp4
+#EXTINF:-1 tvg-logo="http://orig13.deviantart.net/1000/f/2013/352/a/7/baby_saga_by_skarface3k3-d6yesfk.png" group-title="Saga de Baby", Episodio 24 - O Contra-Ataque de Baby
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/DBGTEP24.mp4
+#EXTINF:-1 tvg-logo="http://orig13.deviantart.net/1000/f/2013/352/a/7/baby_saga_by_skarface3k3-d6yesfk.png" group-title="Saga de Baby", Episodio 25 - Droga, Bebé Esta en la Tierra
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/DBGTEP25.mp4
+#EXTINF:-1 tvg-logo="http://orig13.deviantart.net/1000/f/2013/352/a/7/baby_saga_by_skarface3k3-d6yesfk.png" group-title="Saga de Baby", Episodio 26 -Gohan y Goten, Uma Luta Entre Irmaos
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/DBGTEP26.mp4
+#EXTINF:-1 tvg-logo="http://orig13.deviantart.net/1000/f/2013/352/a/7/baby_saga_by_skarface3k3-d6yesfk.png" group-title="Saga de Baby", Episodio 27 - Vegeta é Possuido
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/DBGTEP27.mp4
+#EXTINF:-1 tvg-logo="http://orig13.deviantart.net/1000/f/2013/352/a/7/baby_saga_by_skarface3k3-d6yesfk.png" group-title="Saga de Baby", Episodio 28 -Goku Volta, Todos São Inimigos
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/DBGTEP28.mp4
+#EXTINF:-1 tvg-logo="http://orig13.deviantart.net/1000/f/2013/352/a/7/baby_saga_by_skarface3k3-d6yesfk.png" group-title="Saga de Baby", Episodio 29 - O Poder do Super Saiyajin 3 é Derrotado???
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/DBGTEP29.mp4
+#EXTINF:-1 tvg-logo="http://orig13.deviantart.net/1000/f/2013/352/a/7/baby_saga_by_skarface3k3-d6yesfk.png" group-title="Saga de Baby", Episodio 30 -Goku Desaparece??
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/DBGTEP30.mp4
+#EXTINF:-1 tvg-logo="http://orig13.deviantart.net/1000/f/2013/352/a/7/baby_saga_by_skarface3k3-d6yesfk.png" group-title="Saga de Baby", Episodio 31 - A Destruiçãoo de Goku??
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/DBGTEP31.mp4
+#EXTINF:-1 tvg-logo="http://orig13.deviantart.net/1000/f/2013/352/a/7/baby_saga_by_skarface3k3-d6yesfk.png" group-title="Saga de Baby", Episodio 32 - Volte Goku, Uub O Furioso Lutador
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/DBGTEP32.mp4
+#EXTINF:-1 tvg-logo="http://orig13.deviantart.net/1000/f/2013/352/a/7/baby_saga_by_skarface3k3-d6yesfk.png" group-title="Saga de Baby", Episodio 33 - O raio mortal de Oob
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/DBGTEP33.mp4
+#EXTINF:-1 tvg-logo="http://orig13.deviantart.net/1000/f/2013/352/a/7/baby_saga_by_skarface3k3-d6yesfk.png" group-title="Saga de Baby", Episodio 34 - Goku Fracassa Em Sua Transformação
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/DBGTEP34.mp4
+#EXTINF:-1 tvg-logo="http://orig13.deviantart.net/1000/f/2013/352/a/7/baby_saga_by_skarface3k3-d6yesfk.png" group-title="Saga de Baby", Episodio 35 - O Poder Máximo, Goku Se Transforma en Super Saiya-Jin 4
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/DBGTEP35.mp4
+#EXTINF:-1 tvg-logo="http://orig13.deviantart.net/1000/f/2013/352/a/7/baby_saga_by_skarface3k3-d6yesfk.png" group-title="Saga de Baby", Episodio 36 - Baby se transforma en un Macaco Gigante
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/DBGTEP36.mp4
+#EXTINF:-1 tvg-logo="http://orig13.deviantart.net/1000/f/2013/352/a/7/baby_saga_by_skarface3k3-d6yesfk.png" group-title="Saga de Baby", Episodio 37 - Baby Possui o Dobro de Ki de Goku
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/DBGTEP37.mp4
+#EXTINF:-1 tvg-logo="http://orig13.deviantart.net/1000f/2013/352/a/7/baby_saga_by_skarface3k3-d6yesfk.png" group-title="Saga de Baby", Episodio 38 - O Renacimiento de Super Saiya-Jin 4
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/DBGTEP38.mp4
+#EXTINF:-1 tvg-logo="http://orig13.deviantart.net/1000/f/2013/352/a/7/baby_saga_by_skarface3k3-d6yesfk.png" group-title="Saga de Baby", Episodio 39 - A morte de Bebé
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/DBGTEP39.mp4
+#EXTINF:-1 tvg-logo="http://orig13.deviantart.net/1000/f/2013/352/a/7/baby_saga_by_skarface3k3-d6yesfk.png" group-title="Saga de Baby", Episodio 40 - ¡Una explosión de Terra! A Importante Decisão de Picolo
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/DBGTEP40.mp4
+#EXTINF:-1 tvg-logo="http://orig13.deviantart.net/1000/f/2013/352/a/7/baby_saga_by_skarface3k3-d6yesfk.png" group-title="Saga de Baby", Episodio 41 - Quem Será o Novo Sucesor de MR. Satán
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/DBGTEP41.mp4
+
+
+################### Saga do Super 17 ###################
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-jr1BqHRRRcU/UL6BVP6a0FI/AAAAAAAAAuo/i3TmvRx7LVc/s1600/saga%2Bsuper%2B17.png" group-title="Saga do Super 17 ", Episodio 42 - ¡Morra Goku! Os Inimigos Mais Fortes Escapam do Inferno
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/DBGTEP42.mp4
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-jr1BqHRRRcU/UL6BVP6a0FI/AAAAAAAAAuo/i3TmvRx7LVc/s1600/saga%2Bsuper%2B17.png" group-title="Saga do Super 17 ", Episodio 43 - A Volta de Cell e Freeza
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/DBGTEP43.mp4
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-jr1BqHRRRcU/UL6BVP6a0FI/AAAAAAAAAuo/i3TmvRx7LVc/s1600/saga%2Bsuper%2B17.png" group-title="Saga do Super 17 ", Episodio 44 - ¡Oh Ultimo Andróide! O Súper 17
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/DBGTEP44.mp4
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-jr1BqHRRRcU/UL6BVP6a0FI/AAAAAAAAAuo/i3TmvRx7LVc/s1600/saga%2Bsuper%2B17.png" group-title="Saga do Super 17 ", Episodio 45 - O plano para escapar del infierno
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/DBGTEP45.mp4
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-jr1BqHRRRcU/UL6BVP6a0FI/AAAAAAAAAuo/i3TmvRx7LVc/s1600/saga%2Bsuper%2B17.png" group-title="Saga do Super 17 ", Episodio 46 - O Super Saiya-Jin 4 Enfrenta o Nº 17
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/DBGTEP46.mp4
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-jr1BqHRRRcU/UL6BVP6a0FI/AAAAAAAAAuo/i3TmvRx7LVc/s1600/saga%2Bsuper%2B17.png" group-title="Saga do Super 17 ", Episodio 47 - Goku eo Nº 18 Lutam Juntos
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/DBGTEP47.mp4
+
+
+################### Saga dos dragões malignos ###################
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-_2qqXyNgo5M/UL6BqnXJGfI/AAAAAAAAAu8/hMyE5fknhJc/s1600/saga%2Bdos%2Bdragoes%2Bmalignos.png" group-title="Saga dos dragões Malígnos", Episodio 48 - Shenlong é Nosso Inimigo
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/DBGTEP48.mp4
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-_2qqXyNgo5M/UL6BqnXJGfI/AAAAAAAAAu8/hMyE5fknhJc/s1600/saga%2Bdos%2Bdragoes%2Bmalignos.png" group-title="Saga dos dragões Malígnos", Episodio 49 - A Força do Poderoso Dragão
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/DBGTEP49.mp4
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-_2qqXyNgo5M/UL6BqnXJGfI/AAAAAAAAAu8/hMyE5fknhJc/s1600/saga%2Bdos%2Bdragoes%2Bmalignos.png" group-title="Saga dos Dragões Malígnos", Episodio 50 - O Guerreiro Elétrico Uh Shenlong
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/DBGTEP50.mp4
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-_2qqXyNgo5M/UL6BqnXJGfI/AAAAAAAAAu8/hMyE5fknhJc/s1600/saga%2Bdos%2Bdragoes%2Bmalignos.png" group-title="Saga dos Dragões Malígnos", Episodio 51 - O Ataque do Redemoinho
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/DBGTEP51.mp4
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-_2qqXyNgo5M/UL6BqnXJGfI/AAAAAAAAAu8/hMyE5fknhJc/s1600/saga%2Bdos%2Bdragoes%2Bmalignos.png" group-title="Saga dos dragões Malígnos", Episódio 52 - Pan Tome Cuidado Para Não Ser Possuida Por Chi ShenLong
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/DBGTEP52.mp4
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-_2qqXyNgo5M/UL6BqnXJGfI/AAAAAAAAAu8/hMyE5fknhJc/s1600/saga%2Bdos%2Bdragoes%2Bmalignos.png" group-title="Saga dos dragões Malígnos", Episodio 53 - As Lágrimas de um Kame Hame Ha
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/DBGTEP53.mp4
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-_2qqXyNgo5M/UL6BqnXJGfI/AAAAAAAAAu8/hMyE5fknhJc/s1600/saga%2Bdos%2Bdragoes%2Bmalignos.png" group-title="Saga dos dragões Malígnos", Episodio 54 - O Guerreiro do Sol
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/DBGTEP54.mp4
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-_2qqXyNgo5M/UL6BqnXJGfI/AAAAAAAAAu8/hMyE5fknhJc/s1600/saga%2Bdos%2Bdragoes%2Bmalignos.png" group-title="Saga dos dragões Malígnos", Episodio 55 - El Plano de Vegeta y Bulma
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/DBGTEP55.mp4
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-_2qqXyNgo5M/UL6BqnXJGfI/AAAAAAAAAu8/hMyE5fknhJc/s1600/saga%2Bdos%2Bdragoes%2Bmalignos.png" group-title="Saga dos dragões Malígnos", Episodio 56 - Os Irmíos do Fogo e Do Gelo
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/DBGTEP56.mp4
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-_2qqXyNgo5M/UL6BqnXJGfI/AAAAAAAAAu8/hMyE5fknhJc/s1600/saga%2Bdos%2Bdragoes%2Bmalignos.png" group-title="Saga dos Dragões Malígnos", Episodio 57 - O Dragão Mais Poderoso
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/DBGTEP57.mp4
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-_2qqXyNgo5M/UL6BqnXJGfI/AAAAAAAAAu8/hMyE5fknhJc/s1600/saga%2Bdos%2Bdragoes%2Bmalignos.png" group-title="Saga dos dragões Malígnos", Episodio 58 - Goku Supera Os Poderes do Super Saiya-Jin 4
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/DBGTEP58.mp4
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-_2qqXyNgo5M/UL6BqnXJGfI/AAAAAAAAAu8/hMyE5fknhJc/s1600/saga%2Bdos%2Bdragoes%2Bmalignos.png" group-title="Saga dos Dragões Malígnos", Episodio 59 - Vegeta Se Transforma Num Macaco Gigante
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/DBGTEP59.mp4
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-_2qqXyNgo5M/UL6BqnXJGfI/AAAAAAAAAu8/hMyE5fknhJc/s1600/saga%2Bdos%2Bdragoes%2Bmalignos.png" group-title="Saga dos dragões Malígnos", Episodio 60 - Fusão, O Incrivel Super Gogeta
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/DBGTEP60.mp4
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-_2qqXyNgo5M/UL6BqnXJGfI/AAAAAAAAAu8/hMyE5fknhJc/s1600/saga%2Bdos%2Bdragoes%2Bmalignos.png" group-title="Saga dos Dragões Malígnos", Episodio 61 - Goku Se Alimenta Da Esfera de Quatro Estrelas
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/DBGTEP61.mp4
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-_2qqXyNgo5M/UL6BqnXJGfI/AAAAAAAAAu8/hMyE5fknhJc/s1600/saga%2Bdos%2Bdragoes%2Bmalignos.png" group-title="Saga dos dragões Malígnos", Episódio 62 - Aparece Um Novo Aliado
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/DBGTEP62.mp4
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-_2qqXyNgo5M/UL6BqnXJGfI/AAAAAAAAAu8/hMyE5fknhJc/s1600/saga%2Bdos%2Bdragoes%2Bmalignos.png" group-title="Saga dos dragões Malígnos", Episodio 63 - A Milagrosa Vitória, Goku Pede Ajuda a Galaxia
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/DBGTEP63.mp4
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-_2qqXyNgo5M/UL6BqnXJGfI/AAAAAAAAAu8/hMyE5fknhJc/s1600/saga%2Bdos%2Bdragoes%2Bmalignos.png" group-title="Saga dos dragões Malígnos", Episodio 64 - Adeus Goku… Até Um Dia
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/DBGTEP64.mp4
+
+
+
+################### Película ###################
+
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-1Vv8uVdSd88/UPk1XdLzn0I/AAAAAAAABjY/Tzlhiw5L-ZU/s1600/capa-filme-dragon-ball-gt-o-legado-do -heroi-100-anos-depois.jpg" group-title="Filme", ​​Filme 01 - O Legado de um Heroi
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/DBGTLEGFILME1.mp4
