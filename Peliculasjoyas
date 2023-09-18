@@ -1,25 +1,26 @@
 #EXTM3U
+#EXTINF:-1,TyC
+http://177.53.155.236:8000/play/a03g/index.m3u8
+#EXTINF:-1,TyC Sports HD
+http://177.53.155.236:8000/play/a00s/index.m3u8
+#EXTINF:-1,ESPN
+http://177.53.155.236:8000/play/a03e/index.m3u8
+#EXTINF:-1,ESPN 2
+http://177.53.155.236:8000/play/a07i/index.m3u8
+#EXTINF:-1,ESPN 2 Latin
+http://177.53.155.236:8000/play/a03d/index.m3u8
+#EXTINF:-1,ESPN 3
+http://177.53.155.236:8000/play/a052/index.m3u8
+#EXTINF:-1,ESPN 4
+http://177.53.7155.236:8000/play/a06q/index.m3u8
+#EXTINF:-1,ESPN 4
+http://177.53.155.236:8000/play/a0bg/index.m3u8
+#EXTINF:-1,ESPN 4 HD
+http://177.53.155.236:8000/play/a09h/index.m3u8
+#EXTINF:-1,ESPN EXTRA HD
+http://177.53.155.236:8000/play/a05j/index.m3u8
+#EXTINF:-1,ESPN HD
+http://177.53.155.236:8000/play/a00l/index.m3u8
+#EXTINF:-1,ESPN HD
+http://177.53.155.236:8000/play/a0b2/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://45.179.164.59:8181/Peliculas/The.fast.and.the.furious.2001.1080p-dual-lat-poster.jpg" group-title="Fast Saga",Rapidos Y Furiosos 1
-http://45.179.164.59:8181/Peliculas/The.fast.and.the.furious.2001.1080p-dual-lat.mp4
-
-#EXTINF:-1 tvg-logo="http://45.179.164.59:8181/Peliculas/2.fast.2.furious.2003.1080p-dual-lat-poster.jpg" group-title="Fast Saga",Rapidos Y Furiosos 2
-http://45.179.164.59:8181/Peliculas/2.fast.2.furious.2003.1080p-dual-lat.mp4
-
-#EXTINF:-1 tvg-logo="http://45.179.164.59:8181/Peliculas/The.fast.and.the.furious.tokyo.drift.2006.1080p-dual-lat-poster.jpg" group-title="Fast Saga",Rapidos Y Furiosos 3 (6.5)
-http://45.179.164.59:8181/Peliculas/The.fast.and.the.furious.tokyo.drift.2006.1080p-dual-lat.mp4
-
-#EXTINF:-1 tvg-logo="http://45.179.164.59:8181/Peliculas/Fast.and.furious.2009.1080p-dual-lat-poster.jpg" group-title="Fast Saga",Rapidos Y Furiosos 4
-http://45.179.164.59:8181/Peliculas/Fast.and.furious.2009.1080p-dual-lat.mp4
-
-#EXTINF:-1 tvg-logo="http://45.179.164.59:8181/Peliculas/Fast.five.2011.1080p-dual-lat-poster.jpg" group-title="Fast Saga",Rapidos Y Furiosos 5
-http://45.179.164.59:8181/Peliculas/Fast.five.2011.1080p-dual-lat.mp4
-
-#EXTINF:-1 tvg-logo="http://45.179.164.59:8181/Peliculas/Fast.and.furious.6.2013.1080p.extended-dual-lat-poster.jpg" group-title="Fast Saga",Rapidos Y Furiosos 6
-http://45.179.164.59:8181/Peliculas/Fast.and.furious.6.2013.1080p.extended-dual-lat.mp4
-
-#EXTINF:-1 tvg-logo="http://45.179.164.59:8181/Peliculas/Furious.seven.2015.1080p.extended-dual-lat-poster.jpg" group-title="Fast Saga",Rapidos Y Furiosos 7
-http://45.179.164.59:8181/Peliculas/Furious.seven.2015.1080p.extended-dual-lat.mp4
-
-#EXTINF:-1 tvg-logo="https://recallaudiovision.com/wp-content/uploads/padrino-godfather.jpg" group-title="saga del Padrino",EL PADRINO 1
-https://sv1.nupload.co/?s=bedDuxWKKTX2f6NtKAfuYlrE30eUpxEAMRegpa0a4Ydj41MPB2jzoKdrKslaZZLLRZ2ha2r
